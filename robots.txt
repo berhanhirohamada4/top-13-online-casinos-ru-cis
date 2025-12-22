@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://berhanhirohamada4.github.io/top-13-online-casinos-ru-cis/sitemap.xml
+Host: berhanhirohamada4.github.io
